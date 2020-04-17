@@ -2,8 +2,7 @@
 Module Energie intégrable dans Ignition
 
 * Explications
-* Intégration
-* Modifications
+* Détails
 
 ## Explications
 Le module énergie est un module Java intégrable dans le logiciel Ignition, ainsi que pour son application web.
@@ -13,6 +12,5 @@ Du coté utilisateur, rien de plus simple ; installer le module sur l'applicatio
 
 ![Screen Interface](img/Capture.JPG)
 ![Screen Interface2](img/Capture2.JPG)
-## Intégration
-
-## Modifications
+## Détails
+Voir rapports de stage: https://drive.google.com/drive/folders/1H8fiztVv1H9-Zxdof004Ucnqmp6WzHrM
